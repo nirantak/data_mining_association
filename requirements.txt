@@ -7,3 +7,5 @@ jupyterlab
 matplotlib
 pydotplus
 scipy
+Orange
+Orange3-Associate
