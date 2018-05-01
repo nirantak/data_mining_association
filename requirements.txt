@@ -1,11 +1,7 @@
-numpy
-pandas
-sklearn
-seaborn
 jupyter
 jupyterlab
+numpy
+pandas
 matplotlib
-pydotplus
-scipy
 Orange
 Orange3-Associate
