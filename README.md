@@ -20,7 +20,7 @@ Mining data from the Stack Overflow Developer survey to generate frequent itemse
 
 1. [Data Cleaning](https://github.com/nirantak/data_mining_association/tree/master/data_cleaning.ipynb) using pandas
 2. [Data Visualization](https://github.com/nirantak/data_mining_association/tree/master/data_visualization.ipynb) using matplotlib
-3. [Apriori Association](https://github.com/nirantak/data_mining_association/tree/master/Results.docx) using WEKA
+3. [Apriori Association](https://github.com/nirantak/data_mining_association/tree/master/Results.pdf) using WEKA
 
 ### Requirements
 
